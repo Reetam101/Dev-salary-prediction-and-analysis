@@ -1,0 +1,8 @@
+etc/
+Lib/
+Scripts/
+share/
+__pycache__/
+.ipynb_checkpoints/
+classifier.py
+Untitled.ipynb
